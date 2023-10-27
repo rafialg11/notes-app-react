@@ -1,0 +1,8 @@
+body {
+  background-color: rgb(189, 255, 233);
+  margin: 0;
+  padding: 0;
+  display: flex;
+  font-family: 'Quicksand', sans-serif;
+}
+
