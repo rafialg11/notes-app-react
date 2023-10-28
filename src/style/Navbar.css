@@ -16,4 +16,6 @@
 
 .navbar__right{
     margin-left: 20px;
+    display: flex;
+    align-items: center;
 }

@@ -1,5 +1,7 @@
 import React from "react";
 import "../style/Navbar.css";
+import { FiSearch } from "react-icons/fi";
+import Button from "./Button";
 
 const Navbar = () => {
   return (
@@ -9,6 +11,7 @@ const Navbar = () => {
       </div>
       <div className="navbar__right">
         <input type="text" placeholder="Search" />
+        <Button text="Cari" icon={FiSearch} />
       </div>
     </nav>
   );

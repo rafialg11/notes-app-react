@@ -1,0 +1,9 @@
+.notes-card{
+    display: flex;
+    flex-direction: column;
+    width: 35vh;
+    margin: 20px ;
+    border: 1px solid rgb(6, 68, 68);
+    padding: 10px;
+    border-radius: 10px;
+}
